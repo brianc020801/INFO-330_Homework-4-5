@@ -10,13 +10,11 @@ Professor Oak had a problem.
 
 *(He always looks like this, but seriously, he has a serious problem right now.)*
 
-Not knowing where else to turn, he placed a call to everybody's favorite Pokemon Master, Ash Ketchum.
-
-"Ash! I have a problem!"
-
-Ash was, of course, concerned. "What is it, Professor?"
+He placed a call to everybody's favorite Pokemon Master, Ash Ketchum. "Ash! I have a problem!"
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH05YoDkoBGN_gS9ByNYon8rCg6kOH9gABXQ&usqp=CAU)
+
+Ash was, of course, concerned. "What is it, Professor?"
 
 "Some of my college interns were practicing Pokemon battles in the server room, and the master Pokedex was deleted!"
 
@@ -24,19 +22,29 @@ Ash gasped. "Oh, no! Was it Team Rocket?"
 
 Professor Oak paused for a moment. "Um, no, it was a Magneton, accidental EMP burst from a Quick Attack, I already said..."
 
-![]()
+![](https://archives.bulbagarden.net/media/upload/d/d9/0082Magneton.png)
+
+*(The guilty Pokemon; the intern who trains this Magneton, however, shall remain nameless.)*
 
 But Ash was already heading out the door. "I'm on my way, Professor! Team Rocket doesn't stand a chance!"
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReolHiQcHTcL2DMUC6JEzWxGurhUTvj_GNeg&usqp=CAU)
 
+*(Ash, you're a lovable idiot.)*
+
 As the screen went black and Ash began his next adventure, Professor Oak sighed deeply. Turning to Misty, he said, "I told you that wouldn't work."
+
+![](https://qph.cf2.quoracdn.net/main-qimg-13b25f552a7e11d2835afeca83b18f92-lq)
 
 Misty grinned smugly. "I just said Ash would want to help, I didn't say he would actually BE of any help."
 
 "So why have me call him?"
 
 "Now he's occupied, and we can focus on the real problem: Recovering the database. You said you had a CSV backup from a portable Pokedex?"
+
+![](https://static.wikia.nocookie.net/pokemon/images/5/5c/Gen_I_Pokedex.png/revision/latest?cb=20100717083120)
+
+*(Kinda looks like a really weak iPad if you ask me, and makes me wonder why there isn't a Pokedex app for iOS....)*
 
 "Yes. It's a single-table export of the master database, but Misty, it's a single table. It's no good to me that way! I need to be able to examine the data with SQL queries, and--"
 
