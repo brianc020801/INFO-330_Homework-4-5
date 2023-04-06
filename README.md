@@ -4,15 +4,19 @@ A homework assignment looking to explore relational database normalization, set 
 
 ## Background
 
-Professor Oak had a problem. Not knowing where else to turn, he placed a call to everybody's favorite Pokemon Master, Ash Ketchum.
+Professor Oak had a problem. 
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1379789459i/522786.jpg)
+
+*(He always looks like this, but seriously, he has a serious problem right now.)*
+
+Not knowing where else to turn, he placed a call to everybody's favorite Pokemon Master, Ash Ketchum.
 
 "Ash! I have a problem!"
 
 Ash was, of course, concerned. "What is it, Professor?"
 
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH05YoDkoBGN_gS9ByNYon8rCg6kOH9gABXQ&usqp=CAU)
 
 "Some of my college interns were practicing Pokemon battles in the server room, and the master Pokedex was deleted!"
 
@@ -20,7 +24,11 @@ Ash gasped. "Oh, no! Was it Team Rocket?"
 
 Professor Oak paused for a moment. "Um, no, it was a Magneton, accidental EMP burst from a Quick Attack, I already said..."
 
+![]()
+
 But Ash was already heading out the door. "I'm on my way, Professor! Team Rocket doesn't stand a chance!"
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReolHiQcHTcL2DMUC6JEzWxGurhUTvj_GNeg&usqp=CAU)
 
 As the screen went black and Ash began his next adventure, Professor Oak sighed deeply. Turning to Misty, he said, "I told you that wouldn't work."
 
