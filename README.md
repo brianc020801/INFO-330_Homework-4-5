@@ -1,6 +1,6 @@
 # INFO330-CreatingRelations2
 
-A homework assignment looking to explore relational database normalization, set in a backstory. (If you don't care to read the backstory, you can jump straight to the [homework](#homework) section, but you're missing out.)
+A homework assignment looking to explore relational database normalization, set in a backstory. (If you don't care to read the backstory, you can jump straight to the [homework](#homework) section, but I will warn you: you're missing out on some prime high-quality fan fiction here...)
 
 ## Background
 
