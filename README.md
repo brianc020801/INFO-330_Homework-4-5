@@ -6,9 +6,13 @@ A homework assignment looking to explore relational database normalization, set 
 
 Professor Oak had a problem. Not knowing where else to turn, he placed a call to everybody's favorite Pokemon Master, Ash Ketchum.
 
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1379789459i/522786.jpg)
+
 "Ash! I have a problem!"
 
 Ash was, of course, concerned. "What is it, Professor?"
+
+
 
 "Some of my college interns were practicing Pokemon battles in the server room, and the master Pokedex was deleted!"
 
@@ -46,10 +50,14 @@ You are permitted to use any tool to do the intermediate steps; your final datab
 * **Second Normal Form** (2 pts): the solution database is in Second Normal Form
 * **Third Normal Form** (2 pts): the solution databse is in Third Normal Form
 
-> **Important Note:** there are 802 Pokemon in the CSV file; make sure that your normalized database also has 802 Pokemon in it, or it means you lost some data along the way! We will be counting! **You will lose a point if you lost any Pokemon!** (Abandoning a Pokemon is a violation of the trust between Trainer and Pokemon, and I will not allow it!)
+> **Important Note:** there are 801 Pokemon in the CSV file; make sure that your normalized database also has 801 Pokemon in it, or it means you lost some data along the way! We will be counting! **You will lose a point if you lost any Pokemon!** (Abandoning a Pokemon is a violation of the trust between Trainer and Pokemon, and neither Professor Oak nor I will allow it!)
 
 ## Extra Credit
 
-* Introduce new Pokemon! 
-    * Write a SQL script that adds "Huskichu", a "Mascot"-type Pokemon. You may decide for yourself what attacks it has. It has no evolution form.
-    * Write another SQL script that adds "Cougarite", another "Mascot"-type Pokemon. Cougarites have one attack, a "Slow Attack", which does 
+* Introduce new Pokemon! (2 pts) 
+    * Write a SQL script that adds "Huskichu", a "Mascot"-type Pokemon. You may decide for yourself what attacks it has. It has no evolution form. (Huskichu Pokemon are very good, they rival Mew and Mewtwo in power--make sure your data reflects this!)
+    * Write another SQL script that adds "Cougarite", another "Mascot"-type Pokemon. Cougarites have one attack, a "Slow Attack", which does no damage. (Cougarite Pokemon are not very good. They lose to Magikarp in most battles.)
+* Support your local Pokemon trainer! (2 pts)
+    * Create a new table, `trainer`, which consists of `first_name` and `last_name` (both string types not longer than 80 characters). 
+    * Trainers can have multiple `favorite_pokemon_types`, and have Pokemon teams that can have up to ten Pokemon each on them. Make sure you stay in Third Normal Form, and add several trainers to the database: myself, your TA, yourself, and a friend or colleague from the class. You may assign to us any Pokemon you think would be on our team, but beware! Giving me a Cougarite could hurt your grade! (Just kidding.)
+
